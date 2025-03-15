@@ -2,6 +2,7 @@
   <profile version="1.0">
     <option name="myName" value="Project Default" />
     <inspection_tool class="AllBranchesAreIdentical" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="AllMatchWithoutEmptyCheck" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="AnchorPrecedence" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="ApiServiceParameterTypeEndWithSpecificSuffix" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="ApiServiceReturnTypeEndWithSpecificSuffix" enabled="false" level="WARNING" enabled_by_default="false" />
@@ -36,6 +37,7 @@
     <inspection_tool class="CountDownShouldInFinally" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="CounterModeIVShouldNotBeReused" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="CryptographicKeySize" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CurrencyUnitProblemCheck" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="CustomCryptographicAlgorithm" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="CustomSerializationMethod" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="DanglingElseStatements" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -100,6 +102,7 @@
     <inspection_tool class="LongBitsToDoubleOnInt" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="LoopExecutingAtMostOnce" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="MQSendResultNotHandle" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="MavenDependencyVersionCheck" enabled="false" level="ERROR" enabled_by_default="false" />
     <inspection_tool class="MetaQListenerNotTryCatch" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="MethodArgToParameterMismatch" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="MethodNamedEquals" enabled="true" level="WARNING" enabled_by_default="true" />
